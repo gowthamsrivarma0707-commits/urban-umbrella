@@ -1,4 +1,5 @@
 # urban-umbrella
+This is my long-term project done in my 3rd year of my degree. Hope you love it.
 A Machine Learning model that identifies and classifies blood cancer from image inputs.
 # Blood Cancer AI Classification App
 
